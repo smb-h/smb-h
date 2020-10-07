@@ -1,5 +1,5 @@
-### Hi there 👋
-Hope ;)
+### Hope ;)
+
 
 <!--
 - 🔭 I’m currently working on ...
