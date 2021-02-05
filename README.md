@@ -1,6 +1,5 @@
-### Hope ;)
-- https://smbh.io
-
+### https://smbh.io
+## Hope ;)
 
 <!--
 - 🔭 I’m currently working on ...
