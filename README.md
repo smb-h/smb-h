@@ -1,6 +1,6 @@
 ## https://smbh.io
 
-[![smbh stats](https://github-readme-stats.vercel.app/api?username=smb-h&show_icons=true&theme=tokyonight)](https://github.com/smb-h/)
+[![smbh stats](https://github-readme-stats.vercel.app/api?username=smb-h&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/smb-h/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact)](https://github.com/smb-h/)
     
