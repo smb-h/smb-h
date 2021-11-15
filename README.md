@@ -1,5 +1,14 @@
-### https://smbh.io
-## Hope ;)
+## https://smbh.io
+
+[![smbh stats](https://github-readme-stats.vercel.app/api?username=smb-h)](https://github.com/smb-h/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact)](https://github.com/smb-h/github-readme-stats)
+    
+<p align="left">
+    <a href="https://github.com/smb-h" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/smb-h/smb-h?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <a href="https://github.com/smb-h" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>
+    <a href="https://github.com/smb-h/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/smb-h/smb-h?label=profile%20updated&style=flat-square"></a>
+</p>
 
 <!--
 - 🔭 I’m currently working on ...
