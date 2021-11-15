@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact&hide_border=true&theme=algolia)](https://github.com/smb-h/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smb-h&hide_border=true&theme=algolia)](https://github.com/smb-h/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smb-h)](https://github.com/smb-h/github-readme-stats)
 
 <!-- <p align="left">
     <a href="https://github.com/smb-h" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/smb-h/smb-h?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
