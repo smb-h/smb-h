@@ -1,9 +1,9 @@
 ## https://smbh.io
 
-<a href="https://github.com/smb-h/convoychat">
+<a href="https://github.com/smb-h/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact&hide_border=true&theme=algolia" />
 </a>
-<a href="https://github.com/smb-h/github-readme-stats">
+<a href="https://github.com/smb-h/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=smb-h&show_icons=true&hide_border=true&theme=algolia" />
 </a>
 
