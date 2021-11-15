@@ -1,8 +1,8 @@
 ## https://smbh.io
 
-[![smbh stats](https://github-readme-stats.vercel.app/api?username=smb-h&show_icons=true&theme=algolia&hide_border=true)](https://github.com/smb-h/)
+[![smbh stats](https://github-readme-stats.vercel.app/api?username=smb-h&show_icons=true&hide_border=true&theme=algolia)](https://github.com/smb-h/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact&theme=algolia)](https://github.com/smb-h/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact&hide_border=true&theme=algolia)](https://github.com/smb-h/)
     
 <!-- <p align="left">
     <a href="https://github.com/smb-h" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/smb-h/smb-h?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
