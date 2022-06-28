@@ -1,4 +1,4 @@
-## https://smb-h.ir
+## https://smbh.io
 
 <p align= "center">
    <a href="https://github.com/smb-h/">
