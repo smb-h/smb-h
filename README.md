@@ -8,7 +8,7 @@
     <img height= "150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smb-h&layout=compact&hide_border=true&theme=algolia" />
   </a>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=smb-h&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=smb-h&left_color=gray&right_color=aqua)
    
 </p>
 
