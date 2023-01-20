@@ -1,17 +1,14 @@
 ## [https://smbh.io](https://smbh.io/)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-#
-
 - 🔭 I’m The Tech Guy :)
 - 🌱 Always learning ...
 - 💬 Feel free to ask me anything!
 - 📫 To reach me check my contact info at [smbh.io](https://smbh.io/)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=smb-h&left_color=gray&right_color=blue)
 
 ---
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=smb-h&left_color=gray&right_color=blue)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 <!--
