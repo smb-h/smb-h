@@ -1,8 +1,4 @@
-## https://smbh.io
-
-
-# 💫 About Me:
-🔭 I’m the Tech guy<br>
+🔭 I’m the Tech guy :)<br>
 🌱 I’m always learning ...<br>
 💬 Feel free to ask me about anything!<br>
 
