@@ -16,7 +16,7 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=smb-h&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=smb-h&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smb-h&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-contributor-stats.vercel.app/api?username=smb-h)
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=smb-h) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smb-h&theme=discord&no-frame=true&no-bg=true&margin-w=4)
