@@ -2,10 +2,16 @@
 
 
 # 💫 About Me:
-Tech guy<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m always learning ...<br>💬 Feel free to ask me about anything!<br>⚡ Fun fact
+🔭 I’m the Tech guy<br>
+👯 I’m looking to collaborate on<br>
+🤝 I’m looking for help with<br>
+🌱 I’m always learning ...<br>
+💬 Feel free to ask me about anything!<br>
+⚡ Fun fact
 
 
 ## 🌐 Socials:
+[![Personal Website](https://smbh.io/)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mohammad-bagher-hosseini-b64068155) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12083682) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/smb_h) 
 
 # 💻 Tech Stack:
@@ -18,11 +24,11 @@ Tech guy<br>🔭 I’m currently working on<br>👯 I’m looking to collaborate
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=smb-h&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Some Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 Random Dev Meme -->
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=smb-h&icon=0&color=0)](https://visitcount.itsvg.in)
