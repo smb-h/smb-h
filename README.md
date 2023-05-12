@@ -5,8 +5,6 @@
 - 💬 Feel free to ask me anything!
 - 📫 To reach me check my contact info at [smbh.io](https://smbh.io/)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=smb-h&left_color=gray&right_color=blue)
-
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
