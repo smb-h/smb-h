@@ -3,7 +3,7 @@
 - 🔭 I’m The Tech Guy :)
 - 🌱 Always learning ...
 - 💬 Feel free to ask me anything!
-- 📫 To reach me check my contact info at [smbh.io](https://smbh.io/)
+- 📫 To reach me check my contact info at [smb-h.com](https://smb-h.com/)
 
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
