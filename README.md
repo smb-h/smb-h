@@ -1,4 +1,4 @@
-## [https://smbh.io](https://smbh.io/)
+## [https://smb-h.com](https://smb-h.com/)
 
 - 🔭 I’m The Tech Guy :)
 - 🌱 Always learning ...
